@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 web: node server.js
+=======
+web: node server.js
+>>>>>>> 7a90b2d843e5657392ddbde24a7eca61789e95ff
